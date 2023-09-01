@@ -1,3 +1,4 @@
+package Fibo;
 import java.util.Scanner;
 
 public class Fibonacci {
